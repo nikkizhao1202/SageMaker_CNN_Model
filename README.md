@@ -20,7 +20,7 @@
     2. validation directory <br/>
     3. test directory <br/>
     4. dictionary directory<br/>
-    <strong> My enviroenment is as following: </strong>
+    <strong> My environment is as following: </strong>
  
    ```sh
        Train_Dir = 'S3://twitter-text/training/train/'
