@@ -1,4 +1,8 @@
+"""
+Load Data Set 
 
+@Author: Nikk Zhao
+"""
 import os
 import json
 import math
