@@ -1,7 +1,6 @@
 """
 Model definition for CNN sentiment training
-
-
+@Author: Nikk Zhao
 """
 
 import os
