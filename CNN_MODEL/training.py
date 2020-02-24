@@ -1,4 +1,8 @@
+"""
+Start Training....
 
+@Author: Nikk Zhao
+"""
 import argparse
 import sentiment_dataset as sentiment_dataset
 import sentiment_model_cnn as sentiment_model_cnn
