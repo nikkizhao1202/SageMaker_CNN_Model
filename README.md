@@ -1,4 +1,4 @@
-# Training Tweets Sentiment Analysis CNN Model Running on SageMaker NoteBook
+# CNN Model Training on SageMaker NoteBook
 
 <ul>
   <li> Contributor: Yongyi(Nikki)Zhao</li>
@@ -55,7 +55,7 @@
 
 <p> Most development discussion is taking place on github in this repo.</p >
 
-## Contributing to Tweets Preprocessing Library
+## Contributing to AWS SageMaker CNN Training 
 <p>
 Any contributions, bug reports, bug fixes, documentation improvements, enhancements to make this project better are warmly welcomed.
 </p >
